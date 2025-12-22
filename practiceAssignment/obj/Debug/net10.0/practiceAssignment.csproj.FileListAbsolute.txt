@@ -1,0 +1,14 @@
+c:\Users\gaura\practiceDotNet\practiceAssignment\bin\Debug\net10.0\practiceAssignment.exe
+c:\Users\gaura\practiceDotNet\practiceAssignment\bin\Debug\net10.0\practiceAssignment.deps.json
+c:\Users\gaura\practiceDotNet\practiceAssignment\bin\Debug\net10.0\practiceAssignment.runtimeconfig.json
+c:\Users\gaura\practiceDotNet\practiceAssignment\bin\Debug\net10.0\practiceAssignment.dll
+c:\Users\gaura\practiceDotNet\practiceAssignment\bin\Debug\net10.0\practiceAssignment.pdb
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.AssemblyInfoInputs.cache
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.AssemblyInfo.cs
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.csproj.CoreCompileInputs.cache
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.dll
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\refint\practiceAssignment.dll
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.pdb
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.genruntimeconfig.cache
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\ref\practiceAssignment.dll
