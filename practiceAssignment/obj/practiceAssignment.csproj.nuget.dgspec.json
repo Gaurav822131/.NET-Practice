@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj": {}
+    "C:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj": {
+    "C:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj",
         "projectName": "practiceAssignment",
-        "projectPath": "c:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj",
+        "projectPath": "C:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\practiceAssignment.csproj",
         "packagesPath": "C:\\Users\\gaura\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\obj\\",
+        "outputPath": "C:\\Users\\gaura\\practiceDotNet\\practiceAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
