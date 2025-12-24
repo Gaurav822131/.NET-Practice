@@ -12,3 +12,4 @@ c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\refint\practi
 c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.pdb
 c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.genruntimeconfig.cache
 c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\ref\practiceAssignment.dll
+c:\Users\gaura\practiceDotNet\practiceAssignment\obj\Debug\net10.0\practiceAssignment.sourcelink.json

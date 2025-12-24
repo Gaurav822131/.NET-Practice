@@ -93,15 +93,57 @@
 // }
 
 
+// using System;
+// namespace practiceAssignment;
+// class Program
+// {
+//     static void Main()
+//     {
+//             GradeDiscriptor.Grade();
+//     }
+// }
+
+
+
+// using System;
+// namespace practiceAssignment;
+// class Program
+// {
+//     static void Main()
+//     {
+//             ValidDate.Valid();
+//     }
+// }
+
+// 
+
+// using System;
+// namespace practiceAssignment;
+// class Program
+// {
+//     static void Main()
+//     {
+//             AtmWithdrawl.Atm();
+//     }
+// }
+
+
+// using System;
+// namespace practiceAssignment;
+// class Program
+// {
+//     static void Main()
+//     {
+//             ProfitLoss.Pl();
+//     }
+// }
+
 using System;
 namespace practiceAssignment;
 class Program
 {
     static void Main()
     {
-            GradeDiscriptor.Grade();
+            SwitchCalc.Calc();
     }
 }
-
-
-
